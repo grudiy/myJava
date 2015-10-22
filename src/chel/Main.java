@@ -3,7 +3,8 @@ package chel;
 public class Main {
 	
 	public static void main(String[] args) {
-	
+		// КОММЕНТЫ 
+		
 		// Создадим новый обьект класса Human (экземпляр класса)
 		Human h = new Human();
 		
