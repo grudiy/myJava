@@ -1,4 +1,4 @@
-package chel;
+package ua.gruand.oldman;
 
 
 // Опишем Класс Human

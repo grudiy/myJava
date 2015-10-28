@@ -1,4 +1,6 @@
-package chel;
+package ua.gruand.start;
+
+import ua.gruand.modernman.*;
 
 public class Main {
 	
@@ -6,18 +8,18 @@ public class Main {
 		// КОММЕНТЫ 
 		
 		// Создадим новый обьект класса Human (экземпляр класса)
-		Human h = new Human();
+		Human h = new Human("Iphone");
 		
 		// Передадим знчени переменной age этого обьекта
-		h.age = 20;
-		h.name = "Vasya";
+		//h.age = 20;
+		//h.name = "Kolya";
 		
 		//задаем значение приватной переменной через сеттер
-		h.setHeight(190);
-		h.setLogin("АНДРЕЙ");
+		//h.setHeight(190);
+		//h.setLogin("логинчик");
 		
 		// Вызовем метод meet данного обьекта
-		h.meet();
+		h.call();
 		
 	}
 
