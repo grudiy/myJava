@@ -14,7 +14,7 @@ public class Main {
 		
 		//задаем значение приватной переменной через сеттер
 		h.setHeight(190);
-		h.setLogin("kuy");
+		h.setLogin("АНДРЕЙ");
 		
 		// Вызовем метод meet данного обьекта
 		h.meet();
